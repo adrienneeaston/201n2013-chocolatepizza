@@ -1,0 +1,34 @@
+
+
+.icons {
+    display: inline;
+    float: right;
+}
+
+.line {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.instructions {
+    margin: 15px 15px;
+}
+
+button {
+    border: none;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    padding: 8px 20px;
+    float: right;
+}
